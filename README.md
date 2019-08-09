@@ -3,7 +3,7 @@ ANALYSIS OF WAGES IN COLORADO
 
 Analysis of Crimes in The City of New York is a Capstone Project developed during Data Science Career Track at Springboard (2019)
 
-It contains 4 files
+It contains 5 files
 
 
 1. 'ANALYSIS OF WAGES IN COLORADO - Capstone Project 1 - Report - Springboard 2019.pdf' - a report describing the project and its outcomes in detail
