@@ -17,9 +17,6 @@ It contains 5 files
 5. 'ANALYSIS OF WAGES IN COLORADO  - Capstone Project 1 - Wage Machine Learning.ipynb' - Code used to perform various supervised and unsupervised learning techniques to cluster the data
 
 
-Cleaned Datasets to be run with the code are available at
-https://drive.google.com/open?id=1ZIX2W6mE2E5I_EQ_woeBclKOUw_qdyp-
-
 
 The main sections of the report are:
 
