@@ -41,6 +41,8 @@ WAGE AND EMPLOYEE COUNT- An analysis on wages and the number of employees at an 
 
 WAGE AND POPULATION- An analysis of wages and the population of a given city
 
+Wage and percentile- An analysis of wages and the percentile of wage earner the worker is
+
 DATA MODELING (SUPERVISED LEARNING)	- Linear regression model for relationship between mean wage and different variables
 
 DATA MODELING (UNSUPERVISED LEARNING) - study of clustering in the dataset involving: 
@@ -52,6 +54,7 @@ DATA MODELING (UNSUPERVISED LEARNING) - study of clustering in the dataset invol
 		
 		PCA	
 		
+		Word cloud analysis of clusters
 ASSUMPTIONS AND LIMITATIONS	- limitations of the analysis
 
 RECOMMENDATIONS AND FUTURE WORK	- recommendation for the next steps
