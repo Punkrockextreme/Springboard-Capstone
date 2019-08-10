@@ -6,9 +6,9 @@ Analysis of Crimes in The City of New York is a Capstone Project developed durin
 It contains 5 files
 
 
-1. 'ANALYSIS OF WAGES IN COLORADO - Capstone Project 1 - Report - Springboard 2019.pdf' - a report describing the project and its outcomes in detail
+1. 'ANALYSIS OF WAGES IN COLORADO - Capstone Project 1 - Report - Springboard 2019.docx' - a report describing the project and its outcomes in detail
 
-2.'ANALYSIS OF WAGES IN COLORADO - Capstone Project 1 -  Presentation - Springboard 2018.pdf' - a slide presentation of the report 
+2.'ANALYSIS OF WAGES IN COLORADO - Capstone Project 1 -  Presentation - Springboard 2018' - a slide presentation of the report 
 
 3.'ANALYSIS OF WAGES IN COLORADO   - Capstone Project 1 - Wage Data Cleaning.ipynb' - Code used to load clean, and merge the two datasets
 
@@ -48,9 +48,9 @@ DATA MODELING (UNSUPERVISED LEARNING) - study of clustering in the dataset invol
 	
   predicted industries and their grouping across mean wages
   
-		PRINCIPAL COMPONENT ANALYSIS	
+		kmeans
 		
-		CLUSTERING METHODS	
+		PCA	
 		
 ASSUMPTIONS AND LIMITATIONS	- limitations of the analysis
 
